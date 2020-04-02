@@ -443,7 +443,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/msm8937-common/proprietary/vendor/lib/libsettings.so:system/vendor/lib/libsettings.so \
     vendor/bq/msm8937-common/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
     vendor/bq/msm8937-common/proprietary/vendor/lib/libsmwrapper.so:system/vendor/lib/libsmwrapper.so \
-    vendor/bq/msm8937-common/proprietary/vendor/lib/libspl.so:system/vendor/lib/libspl.so \
     vendor/bq/msm8937-common/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
     vendor/bq/msm8937-common/proprietary/vendor/lib/libsurround_3mic_proc.so:system/vendor/lib/libsurround_3mic_proc.so \
     vendor/bq/msm8937-common/proprietary/vendor/lib/libswvdec.so:system/vendor/lib/libswvdec.so \
